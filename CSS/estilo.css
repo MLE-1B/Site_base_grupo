@@ -4,16 +4,16 @@ body{
 .row{
     margin-bottom: 20px;
     padding: 20px;
-    background-color: white;
+    background-color: e6e6e6;
 }
 .col{
-    background-color: white; 
+    background-color: e6e6e6; 
 }
 .col-4{
-    background-color: white; 
+    background-color: e6e6e6; 
 }
 .col-8{
-    background-color: white; 
+    background-color: e6e6e6; 
 }
 .container{
     margin-top:20px;
