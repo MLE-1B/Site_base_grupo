@@ -2,6 +2,13 @@ html {
 	scroll-behavior: smooth;
 }
 
+.col {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 20px;
+    background-color: rgb(212, 211, 211);
+}
+
 body{
     background-color: #01F6FE;
 }
